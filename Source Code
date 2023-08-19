@@ -1,0 +1,18 @@
+import matplotlib.pyplot as plt
+
+# Sample data for age groups and their corresponding homeownership percentages
+age_groups = ['18-24', '25-34', '35-44', '45-54', '55-64', '65+']
+ownership_percentages = [12, 32, 45, 60, 72, 80]  # Sample ownership percentages
+
+# Explode the slice for the '55-64' age group
+explode = (0, 0, 0, 0, 0.1, 0)
+
+# Create the 2D pie chart with shadow effect
+plt.pie(ownership_percentages, labels=age_groups, explode=explode, autopct='%1.1f%%', startangle=90, shadow=True)
+
+# Set the title
+plt.title("Percentage of Age Groups Owning a Home")
+
+# Show the pie chart
+plt.show()
+
