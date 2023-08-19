@@ -1,0 +1,71 @@
+pie chart home owner analysis
+
+## Description
+
+Provide a more detailed explanation of your project. Describe its purpose, what problem it solves, and any key features. You can also include a high-level overview of how it works.
+
+## Getting Started
+
+This section should help others get started with your project.
+
+### Prerequisites
+
+List any software or dependencies that need to be installed before someone can use your project.
+
+```
+Example:
+- Python 3.7+
+- Matplotlib (if applicable)
+```
+
+### Installation
+
+Provide step-by-step instructions on how to install your project and its dependencies.
+
+```
+Example:
+1. Clone the repository: `git clone https://github.com/yourusername/yourproject.git`
+2. Navigate to the project directory: `cd yourproject`
+3. Install dependencies: `pip install -r requirements.txt`
+```
+
+## Usage
+
+Explain how to use your project. Provide code examples or usage scenarios.
+
+```
+Example:
+To run the project, use the following command:
+```
+
+```shell
+python your_script.py
+```
+
+## Contributing
+
+Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions.
+
+```
+Example:
+1. Fork the project.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request.
+```
+
+## License
+
+Specify the license under which your project is distributed. Choose an appropriate license (e.g., MIT, Apache 2.0) and include the license text in a separate `LICENSE` file if necessary.
+
+```
+Example:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+## Acknowledgments
+created by Don miller
+
+
+
